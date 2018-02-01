@@ -2,7 +2,7 @@
 title: About Alembic
 feature_text: |
   ## Alfonso Jiménez Mohedano
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  La experiencia y soluciones de un informático en la Uni
 feature_image: "(/images/torreOro.jpg)"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
